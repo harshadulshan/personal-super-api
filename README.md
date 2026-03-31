@@ -24,16 +24,16 @@
 ![API Dashboard](dashboard.png)
 
 ### Chat with AI — Send a message
-![Chat Request](screenshots/dashboard.png)
+![Chat Request](dashboard.png)
 
 ### Chat with AI — Local AI response
-![Chat Response](screenshots/chat-response.png)
+![Chat Response](chat-response.png)
 
 ### Code Explain — AI breaks down your code
-![Code Explain](screenshots/code-explain.png)
+![Code Explain](code-explain.png)
 
 ### Code Fix — AI finds and fixes bugs
-![Code Fix](screenshots/code-fix.png)
+![Code Fix](code-fix.png)
 
 ## ⚡ What is this?
 
