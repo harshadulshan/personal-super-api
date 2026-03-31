@@ -203,7 +203,7 @@ Final-year MIS undergraduate @ NSBM Green University
 Founder @ Kaldera Construction  
 
 [![GitHub](https://img.shields.io/badge/GitHub-harshadulshan-black?style=flat-square&logo=github)](https://github.com/harshadulshan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/harshadulshan](https://www.linkedin.com/in/harsha-kaldera/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([[https://linkedin.com/in/harshadulshan](https://www.linkedin.com/in/harsha-kaldera/?skipRedirect=true](https://www.linkedin.com/in/harsha-kaldera/))
 
 ---
 
