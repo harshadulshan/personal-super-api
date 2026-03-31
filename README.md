@@ -21,10 +21,10 @@
 > **Phase 1** is the foundation of my Personal Super API — core AI chat and code endpoints running fully offline on my laptop. More phases coming soon.
 
 ### API Dashboard — Interactive docs at `/docs`
-![API Dashboard](screenshots/docs-dashboard.png)
+![API Dashboard](screenshots/dashboard.png)
 
 ### Chat with AI — Send a message
-![Chat Request](screenshots/chat-request.png)
+![Chat Request](screenshots/dashboard.png)
 
 ### Chat with AI — Local AI response
 ![Chat Response](screenshots/chat-response.png)
