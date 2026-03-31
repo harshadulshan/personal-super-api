@@ -16,24 +16,24 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots — Phase 1 in Action
 
-### API Dashboard — Auto-generated docs at `/docs`
-> *Screenshot 1 — place here*
+> **Phase 1** is the foundation of my Personal Super API — core AI chat and code endpoints running fully offline on my laptop. More phases coming soon.
 
-### /chat — Talk to local AI
-> *Screenshot 2 — place here*
+### API Dashboard — Interactive docs at `/docs`
+![API Dashboard](screenshots/docs-dashboard.png)
 
-### /code/explain — AI explains your code
-> *Screenshot 3 — place here*
+### Chat with AI — Send a message
+![Chat Request](screenshots/chat-request.png)
 
-### /code/fix — AI fixes bugs
-> *Screenshot 4 — place here*
+### Chat with AI — Local AI response
+![Chat Response](screenshots/chat-response.png)
 
-### Live response — AI running locally
-> *Screenshot 5 — place here*
+### Code Explain — AI breaks down your code
+![Code Explain](screenshots/code-explain.png)
 
----
+### Code Fix — AI finds and fixes bugs
+![Code Fix](screenshots/code-fix.png)
 
 ## ⚡ What is this?
 
